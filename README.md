@@ -13,7 +13,7 @@ Check se está usando o Node.js LTS (neste momento é o 18)
 
 ```shell
 node -v
-# v18.17.0
+# v18.20.3
 ```
 
 ## Abra  pasta do treinamento
